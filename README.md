@@ -1,5 +1,8 @@
 # Emotion_Text_Classifier_App
 
+This projects helps user to predict the emotion written in text by user.
+
+
 ## ScreenShot
 
 ## Home page
