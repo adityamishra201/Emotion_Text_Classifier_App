@@ -8,11 +8,13 @@
 
 ## Data Entry And Prediction
 
-![ss2](https://user-images.githubusercontent.com/103262742/222877396-8ce96ade-1017-4835-a7a3-55dc753739cc.jpeg)
+![ss2](https://user-images.githubusercontent.com/103262742/222877556-361094b6-a61e-4f5c-83aa-8e567dcf13cc.jpeg)
+
 
 ## ss
 
-![ss3](https://user-images.githubusercontent.com/103262742/222877455-b5d07a1b-751d-4769-9931-51e5eff85d17.jpeg)
+![ss4](https://user-images.githubusercontent.com/103262742/222877706-cb4482a9-9ef2-4f56-9195-8ed49a044a34.jpeg)
+
 
 
 
